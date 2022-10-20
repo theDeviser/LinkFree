@@ -1,0 +1,23 @@
+{
+  "name": "Vedansh Tripathi",
+  "type": "personal",
+  "bio": "Outreach Lead@GDSC-GU | ReactJs | Open Source Enthusiast",
+  "avatar": "https://github.com/theDeviser.png",
+  "links": [
+    {
+      "name": "Follow me on GitHub",
+      "url": "https://github.com/theDeviser",
+      "icon": "github"
+    },
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/_thedeviser_",
+      "icon": "twitter"
+    },
+    {
+      "name": "Follow me on LinkedIn",
+      "url": "https://www.linkedin.com/in/vedansh-tripathi-b85483223",
+      "icon": "linkedin"
+    }
+  ]
+}
